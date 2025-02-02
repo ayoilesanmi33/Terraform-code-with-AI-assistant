@@ -1,4 +1,4 @@
-# Terraform-code-with-AI-assistant
+# Terraform-code-with-AI-assistant (Day 1)
 Using Claude as AI Assistant to Terraform
 ## Step 1: Use Claude to Generate Terraform Code
 
